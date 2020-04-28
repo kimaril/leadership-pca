@@ -1,4 +1,4 @@
-# leadership-pca
+# PCA for leadership project
 
 Запустить ноутбук в **Binder**:
 
