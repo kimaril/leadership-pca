@@ -2,8 +2,7 @@
 
 Запустить ноутбук в **Binder**:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kimaril/leadership-pca/master?filepath=PCA.draft.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kimaril/leadership-pca/master)
 
 Принцип работы метода хорошо описан здесь: https://habr.com/ru/post/304214/
 
