@@ -20,8 +20,6 @@ jsonschema==3.2.0
 jupyter-client==5.3.4
 jupyter-core==4.6.1
 kiwisolver==1.1.0
-<<<<<<< HEAD
-=======
 MarkupSafe==1.1.1
 matplotlib==2.2.3
 mistune==0.8.4
@@ -88,7 +86,6 @@ jsonschema==3.2.0
 jupyter-client==5.3.4
 jupyter-core==4.6.1
 kiwisolver==1.1.0
->>>>>>> 2bdae1f949f843b3bf688b0ac5ad6a7b2d1e0847
 llvmlite==0.31.0
 MarkupSafe==1.1.1
 matplotlib==2.2.3
