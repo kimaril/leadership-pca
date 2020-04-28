@@ -1,6 +1,7 @@
 # leadership-pca
 
-Запустить ноутбук в *Binder*
+Запустить ноутбук в **Binder**:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kimaril/leadership-pca/master?filepath=https%3A%2F%2Fgithub.com%2Fkimaril%2Fleadership-pca%2Fblob%2Fmaster%2FPCA.draft.ipynb)
 
 Принцип работы метода хорошо описан здесь: https://habr.com/ru/post/304214/
