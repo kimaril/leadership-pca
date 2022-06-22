@@ -28,7 +28,7 @@ nbconvert==5.6.1
 nbformat==5.0.3
 networkx==1.9.1
 notebook==6.4.1
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.25.3
 pandocfilters==1.4.2
 parso==0.5.2
@@ -96,7 +96,7 @@ nbformat==5.0.3
 networkx==1.9.1
 notebook==6.4.1
 numba==0.48.0
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.25.3
 pandocfilters==1.4.2
 parso==0.5.2
